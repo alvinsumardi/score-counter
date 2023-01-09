@@ -38,9 +38,16 @@ h1 {
     background-color: black;
     font-family: 'Cursed Timer ULiL', sans-serif;
     font-size: 3rem;
-    padding: 10px;
+    padding: 10px 4px;
     text-align: right;
     color: #F94F6D;
+    border: 3px black solid;
+
+}
+
+
+.leader {
+    border-color: white;
 }
 
 
